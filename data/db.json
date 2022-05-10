@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "my first blog",
+      "body": "lorem ipsum ....",
+      "author": "kuro",
+      "id": 1
+    },
+    {
+      "title": "My Second blog",
+      "body": "lorem ipsum ....",
+      "author": "rai",
+      "id": 2
+    },
+    {
+      "title": "test",
+      "body": "test",
+      "author": "Rai",
+      "id": 5
+    },
+    {
+      "title": "Hello World",
+      "body": "Hello World",
+      "author": "Rai",
+      "id": 6
+    },
+    {
+      "title": "Halo Dunia",
+      "body": "Halo Dunis",
+      "author": "Fandi",
+      "id": 7
+    }
+  ]
+}
